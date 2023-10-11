@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/My Programs\Atmel Studio\7.0\Packs\Atmel\ATmega_DFP\1.4.331\avrasm\inc</DIR>
+  <DIR>D:\My Programs\Atmel Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/My Programs\Atmel Studio\7.0\Packs\Atmel\ATmega_DFP\1.4.331\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\Debug\receive.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>receive.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>receive.map</FILE>
+  <FILE>receive.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>50</LINE></main>
+  <AD_converter><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>59</LINE></AD_converter>
+  <check_first_key><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>77</LINE></check_first_key>
+  <check_second_key><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>66</LINE></check_second_key>
+  <back><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>72</LINE></back>
+  <sevenseg><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>90</LINE></sevenseg>
+  <turn_on_lamp><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>85</LINE></turn_on_lamp>
+  <LOOP1><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>92</LINE></LOOP1>
+  <JMP_TABLE><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>163</LINE></JMP_TABLE>
+  <SEP><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>147</LINE></SEP>
+  <SHOW><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>108</LINE></SHOW>
+  <RET_IJMP><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>133</LINE></RET_IJMP>
+  <SEG><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>140</LINE></SEG>
+  <CON><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>135</LINE></CON>
+  <DELAY><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>208</LINE></DELAY>
+  <ZERO><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>175</LINE></ZERO>
+  <ONE><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>178</LINE></ONE>
+  <TWO><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>181</LINE></TWO>
+  <THREE><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>184</LINE></THREE>
+  <FOUR><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>187</LINE></FOUR>
+  <FIVE><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>190</LINE></FIVE>
+  <SIX><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>193</LINE></SIX>
+  <SEVEN><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>196</LINE></SEVEN>
+  <EIGHT><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>199</LINE></EIGHT>
+  <NINE><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>202</LINE></NINE>
+  <L2><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>210</LINE></L2>
+  <L1><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\receive\receive\receive\main.asm</FILE><LINE>212</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

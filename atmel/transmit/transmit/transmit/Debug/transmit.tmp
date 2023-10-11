@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\transmit\transmit\transmit\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/My Programs\Atmel Studio\7.0\Packs\Atmel\ATmega_DFP\1.4.331\avrasm\inc</DIR>
+  <DIR>D:\My Programs\Atmel Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\transmit\transmit\transmit\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/My Programs\Atmel Studio\7.0\Packs\Atmel\ATmega_DFP\1.4.331\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\transmit\transmit\transmit\Debug\transmit.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>transmit.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>transmit.map</FILE>
+  <FILE>transmit.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\My Projects\voltmeter_showing_on_7segment_ASSEMBLY_MCU\atmel\transmit\transmit\transmit\main.asm</FILE><LINE>28</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>
